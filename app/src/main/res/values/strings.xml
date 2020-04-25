@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemesRetrofit</string>
+    <string name="name">Name</string>
+    <string name="image_meme">Image Meme</string>
+</resources>
